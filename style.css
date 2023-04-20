@@ -1,58 +1,58 @@
-.nav-link{
+.nav-link {
     font-family: 'Roboto', sans-serif;
     font-style: normal;
-font-weight: 600;
-font-size: 16px;
-line-height: 1.5;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 1.5;
 }
-.nav-link:hover{
-    color: #4D5AE5;
+.nav-link:hover {
+    color: #4d5ae5;
 }
-.nav-link:focus{
+.nav-link:focus {
     color: #434455;
 }
-.contacts:hover{
-    color: #4D5AE5;
+.contacts:hover {
+    color: #4d5ae5;
 }
-.contacts:focus{
+.contacts:focus {
     color: #434455;
 }
 :root {
-    --first-color: #404BBF;
-    --second-color: #F4F4FD;
-  }
-  .btn{
-    background-color: var(--second-color)
-  }
-  .btn:hover{
-    color:var(--first-color)
-  }
-  .btn:focus{
-    color:var(--first-color)
-  }
-  .btn{
+    --first-color: #404bbf;
+    --second-color: #f4f4fd;
+}
+.btn {
+    background-color: var(--second-color);
+}
+.btn:hover {
+    color: var(--first-color);
+}
+.btn:focus {
+    color: var(--first-color);
+}
+.btn {
     cursor: pointer;
-  }
-  .page{
+}
+.page {
     font-family: 'Roboto', sans-serif;
     font-style: normal;
-font-weight: 500;
-font-size: 16px;
-line-height: 1.5;
-  }
-.page{
-    background-color: #E5E5E5;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
 }
-.title{
-    font-family: 'Roboto';
-font-style: normal;
-font-weight: 500;
-font-size: 20px;
-line-height: 1.2;
+.page {
+    background-color: #e5e5e5;
 }
-.text{
+.title {
     font-family: 'Roboto';
-font-style: normal;
-font-size: 16px;
-line-height: 1.5;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+}
+.text {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-size: 16px;
+    line-height: 1.5;
 }
