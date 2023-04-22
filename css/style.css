@@ -1,10 +1,16 @@
-
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: #FFFFFF;
+    color:#434455 ; 
+}
 .nav-link {
     font-family: 'Roboto', sans-serif;
-    font-style: normal;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+    text-decoration: none;
 }
 .nav-link:hover {
     color: #4d5ae5;
@@ -34,7 +40,7 @@
 .btn {
     cursor: pointer;
 }
-.page {
+page {
     font-family: 'Roboto', sans-serif;
     font-style: normal;
     font-weight: 500;
