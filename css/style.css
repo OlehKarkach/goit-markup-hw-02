@@ -30,17 +30,11 @@ body{
 .hero-btn:focus{
     color:var(--action-hero-btn)
 }
-.btn {
-    background-color: var(--second-color);
-}
-.btn:hover {
-    color: var(--first-color);
-}
-.btn:focus {
-    color: var(--first-color);
-}
-.btn {
-    cursor: pointer;
+.btn:hover,
+.btn:focus{
+background-color: var(--action-hero-btn);
+color: var(--btn-color);
+cursor: pointer;
 }
 page {
     font-family: 'Roboto', sans-serif;
