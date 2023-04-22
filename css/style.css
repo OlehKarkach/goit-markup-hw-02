@@ -51,6 +51,9 @@ body{
     color:#434455;
     text-decoration: none;
 }
+.contacts{
+    color: #434455;
+}
 .nav .link:hover,
 .nav .link:focus,
 .contacts:hover,
