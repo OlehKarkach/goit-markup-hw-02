@@ -1,7 +1,15 @@
+:root {
+    --btn-color: #f4f4fd;
+    --head-color: #2E2F42;
+    --body-color: #FFFFFF;
+    --action-color: #404bbf;
+    --action-hero-btn:#4D5AE5;
+}
 body{
     font-family: 'Roboto', sans-serif;
-    background-color: #FFFFFF;
+    background-color: var(--body-color);
     color:#434455 ; 
+    letter-spacing: 0.03em;
 }
 .nav-link {
     font-family: 'Roboto', sans-serif;
@@ -9,24 +17,18 @@ body{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #2E2F42;
+    color: var(--head-color);
     text-decoration: none;
 }
-.nav-link:hover {
-    color: #4d5ae5;
+.nav-link:hover, 
+.nav-link:focus,
+.contacts:hover,
+.contacts:focus{
+    color:var(--action-color)
 }
-.nav-link:focus {
-    color: #434455;
-}
-.contacts:hover {
-    color: #4d5ae5;
-}
-.contacts:focus {
-    color: #434455;
-}
-:root {
-    --first-color: #404bbf;
-    --second-color: #f4f4fd;
+.hero-btn:hover,
+.hero-btn:focus{
+    color:var(--action-hero-btn)
 }
 .btn {
     background-color: var(--second-color);
@@ -48,7 +50,7 @@ page {
     line-height: 1.5;
 }
 .page {
-    background-color: #FFFFFF;
+    background-color: var(--body-color);
 }
 .title {
     font-family: 'Roboto';
