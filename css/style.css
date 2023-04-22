@@ -11,6 +11,31 @@ body{
     color:#434455 ; 
     letter-spacing: 0.03em;
 }
+.logo{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 21px;
+    text-decoration: none;
+    color: var(--action-hero-btn);
+}
+.header-logo{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 21px;
+    color: var(--head-color);
+}
+.footer-logo{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 21px;
+    color:var(--btn-color)
+}
 .nav-link {
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
