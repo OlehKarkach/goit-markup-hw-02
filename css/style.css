@@ -16,7 +16,8 @@ body{
     font-style: normal;
     font-weight: 800;
     font-size: 18px;
-    line-height: 21px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
     text-decoration: none;
     color: var(--action-hero-btn);
 }
@@ -25,7 +26,9 @@ body{
     font-style: normal;
     font-weight: 800;
     font-size: 18px;
-    line-height: 21px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
     color: var(--head-color);
 }
 .footer-logo{
@@ -33,7 +36,9 @@ body{
     font-style: normal;
     font-weight: 800;
     font-size: 18px;
-    line-height: 21px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
     color:var(--btn-color)
 }
 .nav-link {
