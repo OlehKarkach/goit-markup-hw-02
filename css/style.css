@@ -54,11 +54,17 @@ body{
     letter-spacing: 0.04em;
     color:#4d5ae5 ;
     background-color: #F4F4FD;
+    cursor: pointer;
 }
 
 .buttons-filter:hover,
 .buttons-filter:focus{
-    color: #404BBF;;
+    color: #FFFFFF ;
+}
+
+.buttons-filter:hover,
+.buttons-filter:focus{
+    background-color: #404BBF;
 }
 
 .title{
