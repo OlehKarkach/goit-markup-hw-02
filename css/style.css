@@ -131,9 +131,6 @@ body{
     letter-spacing: 0.02em;
 }
 
-.hero-batton{
-background: #4D5AE5;
-}
 .promo-title{
     font-family: 'Roboto', sans-serif;
     font-style: normal;
@@ -167,4 +164,28 @@ background: #4D5AE5;
     line-height: 1.5;  
     letter-spacing: 0.02em;
     color: #2E2F42;
+}
+
+.hero{
+    background-color: #2e2f42 ;
+}
+.hero-title{
+    ine-height: 1.07;
+    color: #FFFFFF;
+}
+
+.hero-batton{
+    background: #4D5AE5;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+}
+
+.hero-batton:hover,
+.hero-batton:focus{
+    color: #404BBF;
+    cursor: pointer;
 }
