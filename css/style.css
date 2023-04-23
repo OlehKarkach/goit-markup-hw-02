@@ -34,7 +34,10 @@ body{
 
 .non-pointer{
     font-style: normal;
-    color:var(--discribe-link-color);
+}
+
+.contact{
+    color: var(--discribe-link-color);
 }
 
 
