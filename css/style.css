@@ -32,6 +32,11 @@ body{
     color: #2E2F42;
 }
 
+.non-pointer{
+    font-style: normal;
+}
+
+
 .link:hover,
 .link:focus{
     color:  #404BBF;
