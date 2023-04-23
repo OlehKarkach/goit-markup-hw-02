@@ -170,12 +170,12 @@ body{
     background-color: #2e2f42 ;
 }
 .hero-title{
-    ine-height: 1.07;
+    line-height: 1.07;
     color: #FFFFFF;
 }
 
 .hero-batton{
-    background: #4D5AE5;
+    background-color: #4D5AE5;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
