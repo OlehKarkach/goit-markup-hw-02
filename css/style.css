@@ -34,7 +34,7 @@ body{
 
 .non-pointer{
     font-style: normal;
-    color: #434455;
+    color:var(--discribe-link-color);
 }
 
 
