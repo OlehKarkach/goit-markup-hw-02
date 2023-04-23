@@ -1,9 +1,11 @@
 .link{
     text-decoration: none;
 }
-/* ul{
-    list-style: none;
-} */
+
+.link-list{
+    text-decoration: none;
+}
+
 .list{
     list-style: none;
 }
