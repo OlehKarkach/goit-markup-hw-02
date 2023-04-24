@@ -197,7 +197,7 @@ body{
 
 /* =====================PAGE#2==================== */
 
-.buttons-filter-all{
+.buttons-filter{
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
@@ -208,16 +208,16 @@ body{
     cursor: pointer;
 }
 
-.buttons-filter-all:hover{
+.buttons-filter:hover{
     color: #FFFFFF ;
     background-color: #404BBF;
 }
 
-.buttons-filter-all:focus{
+.buttons-filter:focus{
     color: #FFFFFF;
     background-color: #404BBF;
 }
-.buttons-filter-web{
+/* .buttons-filter-web{
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
@@ -300,5 +300,5 @@ body{
 .buttons-filter-marketing:focus{
     color: #FFFFFF;
     background-color: #404BBF;
-}
+} */
 
