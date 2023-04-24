@@ -65,26 +65,6 @@ body{
     color:  #404BBF;
 }
 
-.buttons-filter-all{
-    font-family: "Roboto", sans-serif;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.04em;
-    color:var(--logo-color) ;
-    background-color:var(--logo-footer-color);
-    cursor: pointer;
-}
-
-.buttons-filter-all:hover,
-.buttons-filter-all:focus{
-    color: #FFFFFF ;
-}
-
-.buttons-filter-all:hover,
-.buttons-filter-all:focus{
-    background-color: #404BBF;
-}
 
 .buttons-filter-web{
     font-family: "Roboto", sans-serif;
@@ -297,3 +277,24 @@ body{
 }
 
 /* =====================PAGE#2==================== */
+
+.buttons-filter-all{
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color:var(--logo-color) ;
+    background-color:var(--logo-footer-color);
+    cursor: pointer;
+}
+
+.buttons-filter-all:hover{
+    color: #FFFFFF ;
+    background-color: #404BBF;
+}
+
+.buttons-filter-all:focus{
+    color: #FFFFFF;
+    background-color: #404BBF;
+}
