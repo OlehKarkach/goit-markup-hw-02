@@ -190,12 +190,15 @@ body{
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #ffffff;
+    cursor: pointer;
 }
 
-.hero-batton:hover,
+.hero-batton:hover{
+    background-color: #404BBF; 
+}
+
 .hero-batton:focus{
-    color: #404BBF;
-    cursor: pointer;
+    background-color: #404BBF;
 }
 
 /* =====================PAGE#2==================== */
