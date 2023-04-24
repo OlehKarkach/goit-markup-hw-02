@@ -178,6 +178,9 @@ body{
     line-height: 1.07;
     color: #FFFFFF;
 }
+.contact-list{
+    color:#2E2F42;
+}
 
 .hero-batton{
     background-color: #4D5AE5;
@@ -217,88 +220,4 @@ body{
     color: #FFFFFF;
     background-color: #404BBF;
 }
-/* .buttons-filter-web{
-    font-family: "Roboto", sans-serif;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.04em;
-    color:var(--logo-color) ;
-    background-color:var(--logo-footer-color);
-    cursor: pointer;
-}
-
-.buttons-filter-web:hover{
-    color: #FFFFFF;
-    background-color: #404BBF;
-}
-
-.buttons-filter-web:focus{
-    color: #FFFFFF;
-    background-color: #404BBF;
-    
-}
-
-.buttons-filter-app{
-    font-family: "Roboto", sans-serif;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.04em;
-    color:var(--logo-color) ;
-    background-color:var(--logo-footer-color);
-    cursor: pointer;
-}
-
-.buttons-filter-app:hover{
-    color: #FFFFFF;
-    background-color: #404BBF;
-}
-
-.buttons-filter-app:focus{
-    color: #FFFFFF;
-    background-color: #404BBF;
-}
-
-.buttons-filter-design{
-    font-family: "Roboto", sans-serif;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.04em;
-    color:var(--logo-color) ;
-    background-color:var(--logo-footer-color);
-    cursor: pointer;
-}
-
-.buttons-filter-design:hover{
-    color: #FFFFFF;
-    background-color: #404BBF;
-}
-
-.buttons-filter-design:focus{
-    color: #FFFFFF;
-    background-color: #404BBF;
-}
-
-.buttons-filter-marketing{
-    font-family: "Roboto", sans-serif;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.04em;
-    color:var(--logo-color) ;
-    background-color:var(--logo-footer-color);
-    cursor: pointer;
-}
-
-.buttons-filter-marketing:hover{
-    color: #FFFFFF;
-    background-color: #404BBF;
-}
-
-.buttons-filter-marketing:focus{
-    color: #FFFFFF;
-    background-color: #404BBF;
-} */
 
