@@ -179,7 +179,7 @@ body{
     color: #FFFFFF;
 }
 .contact-list{
-    color:#2E2F42;
+    color:var(--logo-header-color);
 }
 
 .hero-batton{
