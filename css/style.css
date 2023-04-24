@@ -65,87 +65,6 @@ body{
     color:  #404BBF;
 }
 
-
-.buttons-filter-web{
-    font-family: "Roboto", sans-serif;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.04em;
-    cursor: pointer;
-}
-
-.buttons-filter-web:hover,
-.buttons-filter-web:focus{
-    color: #FFFFFF ;
-}
-
-.buttons-filter-web:hover,
-.buttons-filter-web:focus{
-    background-color: #404BBF;
-}
-
-
-.buttons-filter-app{
-    font-family: "Roboto", sans-serif;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.04em;
-    cursor: pointer;
-}
-
-.buttons-filter-app:hover,
-.buttons-filter-app:focus{
-    color: #FFFFFF ;
-}
-
-.buttons-filter-app:hover,
-.buttons-filter-app:focus{
-    background-color: #404BBF;
-}
-
-
-.buttons-filter-design{
-    font-family: "Roboto", sans-serif;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.04em;
-    cursor: pointer;
-}
-
-.buttons-filter-design:hover,
-.buttons-filter-design:focus{
-    color: #FFFFFF ;
-}
-
-.buttons-filter-design:hover,
-.buttons-filter-design:focus{
-    background-color: #404BBF;
-}
-
-
-.buttons-filter-marketing{
-    font-family: "Roboto", sans-serif;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.04em;
-    cursor: pointer;
-}
-
-.buttons-filter-marketing:hover,
-.buttons-filter-marketing:focus{
-    color: #FFFFFF ;
-}
-
-.buttons-filter-marketing:hover,
-.buttons-filter-marketing:focus{
-    background-color: #404BBF;
-}
-
-
 .title{
     font-weight: 500;
     font-size: 20px;
@@ -298,3 +217,88 @@ body{
     color: #FFFFFF;
     background-color: #404BBF;
 }
+.buttons-filter-web{
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color:var(--logo-color) ;
+    background-color:var(--logo-footer-color);
+    cursor: pointer;
+}
+
+.buttons-filter-web:hover{
+    color: #FFFFFF;
+    background-color: #404BBF;
+}
+
+.buttons-filter-web:focus{
+    color: #FFFFFF;
+    background-color: #404BBF;
+    
+}
+
+.buttons-filter-app{
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color:var(--logo-color) ;
+    background-color:var(--logo-footer-color);
+    cursor: pointer;
+}
+
+.buttons-filter-app:hover{
+    color: #FFFFFF;
+    background-color: #404BBF;
+}
+
+.buttons-filter-app:focus{
+    color: #FFFFFF;
+    background-color: #404BBF;
+}
+
+.buttons-filter-design{
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color:var(--logo-color) ;
+    background-color:var(--logo-footer-color);
+    cursor: pointer;
+}
+
+.buttons-filter-design:hover{
+    color: #FFFFFF;
+    background-color: #404BBF;
+}
+
+.buttons-filter-design:focus{
+    color: #FFFFFF;
+    background-color: #404BBF;
+}
+
+.buttons-filter-marketing{
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color:var(--logo-color) ;
+    background-color:var(--logo-footer-color);
+    cursor: pointer;
+}
+
+.buttons-filter-marketing:hover{
+    color: #FFFFFF;
+    background-color: #404BBF;
+}
+
+.buttons-filter-marketing:focus{
+    color: #FFFFFF;
+    background-color: #404BBF;
+}
+
