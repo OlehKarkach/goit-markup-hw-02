@@ -202,7 +202,11 @@ body{
 }
 
 .team-list{
-    background-color: #F4F4FD;
+    background-color: #FFFFFF;
+}
+
+.section-team{
+    background-color: #F4F4FD
 }
 
 
