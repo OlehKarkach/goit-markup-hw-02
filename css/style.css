@@ -72,7 +72,6 @@ body{
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2E2F42;
-
 }
 
 .text{
@@ -81,7 +80,6 @@ body{
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-
 }
 
 .logo,
@@ -103,15 +101,6 @@ body{
 
 
 .top-logo{
-    /* font-family: 'Raleway', sans-serif;
-    font-style: normal;
-    font-weight: 800;
-    font-size: 18px;
-    line-height: 1.17;
-    display: flex;
-    align-items: center;
-    letter-spacing: 0.03em;
-    text-transform: uppercase; */
     color: #2E2F42;
     text-decoration: none;
 }
@@ -131,9 +120,7 @@ body{
 }
 
 .hero-title{
-    /* font-family: 'Roboto', sans-serif;
-    font-style: normal; */
-    font-weight: 700;
+    /* font-weight: 700; */
     font-size: 56px;
     line-height: 1.05;
     text-align: center;
@@ -141,22 +128,19 @@ body{
 }
 
 .promo-title{
-    /* font-family: 'Roboto', sans-serif;
-    font-style: normal; */
-    font-weight: 700;
+    /* font-weight: 700; */
     font-size: 36px;
     line-height: 1.11;  
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2E2F42;
-
 }
 
 .subtitle{
-    font-family: 'Roboto', sans-serif;
+    /* font-family: 'Roboto', sans-serif;
     font-style: normal;
-    font-weight: 400;
+    font-weight: 400; */
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -179,10 +163,12 @@ body{
 .hero{
     background-color: #2e2f42 ;
 }
+
 .hero-title{
     line-height: 1.07;
     color: #FFFFFF;
 }
+
 .contact-list{
     color:#2E2F42;
 }
