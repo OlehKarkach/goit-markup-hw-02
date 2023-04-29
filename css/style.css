@@ -9,6 +9,25 @@
     --discribe-link-color:#434455;
 }
 
+h1,h2,h3,h4,h5,h6,p{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+ul,ol{
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+}
+
+button{
+    cursor: pointer;
+}
+
+img{
+    display: block;
+}
+
 .link{
     text-decoration: none;
 }
@@ -29,6 +48,13 @@ body{
     font-family: 'Roboto', sans-serif;
     color: #434455 ;
     background-color: #FFFFFF;
+}
+/* <====================HEADER====================> */
+
+.container{
+width: 1200px;
+margin-left: 15px;
+margin-left: 15px;
 }
 
 .link {
@@ -162,12 +188,18 @@ body{
     line-height: 1.5;  
     letter-spacing: 0.02em;
     color: #2E2F42;
+   
 }
 
 .text-footer{
     color: #FFFFFF;
 }
 /* =====================PAGE#1==================== */
+
+.page-header-container{
+    display: flex;
+    align-items: center;
+}
 
 .hero{
     background-color: #2e2f42 ;
@@ -190,7 +222,7 @@ body{
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #ffffff;
-    cursor: pointer;
+    /* cursor: pointer; */
 }
 
 .hero-batton:hover{
@@ -220,7 +252,7 @@ body{
     letter-spacing: 0.04em;
     color:var(--logo-color) ;
     background-color:var(--logo-footer-color);
-    cursor: pointer;
+    /* cursor: pointer; */
 }
 
 .buttons-filter:hover{
@@ -233,3 +265,26 @@ body{
     background-color: #404BBF;
 }
 
+/* <=================HOMEWROEK#3=====================> */
+
+.page-nav{
+    display: flex;
+    align-items: center;
+}
+
+.menu-list{
+    display: flex;
+    align-items: center;
+}
+
+.logo{
+    margin-right: 76px;
+}
+
+.contact-list{
+    margin-right:40px;
+}
+
+.contact{
+    margin-left: auto;
+}
